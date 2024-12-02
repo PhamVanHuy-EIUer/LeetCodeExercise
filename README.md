@@ -1,0 +1,2 @@
+# LeetCodeExercise
+Week 1
