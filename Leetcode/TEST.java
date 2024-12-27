@@ -1,4 +1,4 @@
-package Week1;
+package Leetcode;
 
 public class TEST {
     public static void main(String[] args) {

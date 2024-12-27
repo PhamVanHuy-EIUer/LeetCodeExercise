@@ -1,4 +1,4 @@
-package Week1;
+package Leetcode;
 
 import java.util.HashSet;
 import java.util.Scanner;
